@@ -46,6 +46,5 @@ The Support Agent Chatbot is designed to answer "how-to" questions related to fo
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or contributions, please contact me at sahusuhani14@gmail.com.
+
 
